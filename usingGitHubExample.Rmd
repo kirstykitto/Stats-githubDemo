@@ -1,0 +1,140 @@
+---
+title: "Finding correlations in the newStarwars dataset"
+author: "Kirsty Kitto"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file).
+
+Instructions for this exercise
+===
+
+The repo that you have pulled includes:
+
+1. A README file
+1. This .Rmd file
+1. A dataset (the newStarwars dataset)
+
+Each group (around a table) will modify the first two of these files during this activity. (Remember to leave a commit message so we know what you are changing!)
+
+Your group modifications should add a code chunk to this document that 
+
+1. Updates the group number title below with a heading that explains your approach towards finding correlations 
+1. Adds some standard text to explain how you are finding correlation in the newStarwars dataset
+1. Includes a statistical analysis using a R function to explore whether there is a correlation between BMI and height
+
+Group 1
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+
+Group 2
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 3
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 4
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 5
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 6
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 7
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 8
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 9
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+Group 10
+===
+
+Insert some text here
+
+```{r}
+#Code blocks can go inside these quoted delimeters
+
+```
+
+
+
