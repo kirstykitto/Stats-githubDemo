@@ -76,6 +76,7 @@ Paul is a Chump
 
 Group 2 Names
 Paul Robertson
+Edward Truong
 
 ```{r}
 #Code blocks can go inside these quoted delimeters
