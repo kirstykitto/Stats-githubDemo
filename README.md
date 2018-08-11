@@ -5,6 +5,11 @@ Group 1
 ===
 
 Unicorn
+Mutaz Abu Ghazaleh
+Paul Robertson
+Edward Truong
+Davide Lorino
+Giulia Grossi
 ===
 
 Group 3
