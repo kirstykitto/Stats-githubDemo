@@ -2,8 +2,8 @@
 title: "Finding correlations in the newStarwars dataset"
 author: "Kirsty Kitto"
 output:
-  html_document: default
   html_notebook: default
+  html_document: default
 ---
 
 Kirsty is having fun
@@ -112,10 +112,16 @@ Insert some text here
 Group 6
 ===
 
-Insert some text here
+The relationship between height and BMI shows a moderate negative correlation. 
+As height increases, BMI decreases. 
+
+The evidence of this correlation is given by the p-value < 0.05
 
 ```{r}
 #Code blocks can go inside these quoted delimeters
+cor(newStarwars$height, newStarwars$BMI)
+
+cor.test(newStarwars$height, newStarwars$BMI) 
 
 ```
 
