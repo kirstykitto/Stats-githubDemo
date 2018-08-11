@@ -18,6 +18,11 @@ Group 5
 
 Group 6
 ===
+Justin White
+Justin Mah
+Benny Lee
+Archel
+
 
 Group 7
 ===
