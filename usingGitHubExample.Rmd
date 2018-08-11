@@ -111,12 +111,13 @@ Insert some text here
 
 Group 6
 ===
+Using linear regression and coefficent to determine if there is a relationship betwee BMI and the height.
 
-Insert some text here
 
 ```{r}
 #Code blocks can go inside these quoted delimeters
-
+slm <- lm(BMI~height,data=newStarwars)
+coef(slm)
 ```
 
 Group 7
