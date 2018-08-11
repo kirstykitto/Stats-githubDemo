@@ -12,7 +12,7 @@ Group 3
 
 Group 4
 ===
-JOHN
+JOHN R
 JAMES
 SAM
 MARIA
