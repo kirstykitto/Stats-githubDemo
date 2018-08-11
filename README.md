@@ -3,6 +3,10 @@ A repository used to help my stats students learn how to use GitHub
 
 Group 1
 ===
+Priya
+Ethan
+Loki
+Alex
 
 Group 2
 ===
