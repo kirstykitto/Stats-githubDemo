@@ -3,6 +3,10 @@ A repository used to help my stats students learn how to use GitHub
 
 Group 1
 ===
+Priya
+Ethan
+Loki
+Alex
 
 Group 2
 ===
@@ -18,6 +22,11 @@ Group 5
 
 Group 6
 ===
+Justin White
+Justin Mah
+Benny Lee
+Archel
+
 
 Group 7
 ===
