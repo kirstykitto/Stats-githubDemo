@@ -74,6 +74,9 @@ Group 2
 
 Paul is a Chump
 
+Group 2 Names
+Paul Robertson
+
 ```{r}
 #Code blocks can go inside these quoted delimeters
 
@@ -158,6 +161,5 @@ Insert some text here
 #Code blocks can go inside these quoted delimeters
 
 ```
-
 
 
