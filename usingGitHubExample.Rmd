@@ -1,5 +1,5 @@
 ---
-title: "Finding correlations in the newStarwars dataset"
+title: "Group 2"
 author: "Kirsty Kitto"
 output:
   html_document: default
