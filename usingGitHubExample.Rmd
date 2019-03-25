@@ -72,7 +72,7 @@ Insert some text here
 Group 2
 ===
 
-Insert some text here
+Title for our correlation analysis: remove outliers
 
 ```{r}
 #Code blocks can go inside these quoted delimeters
