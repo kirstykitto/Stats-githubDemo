@@ -6,6 +6,10 @@ Group 1
 
 Group 2
 ===
+Roger
+Richard
+Peter
+Duncan
 
 Group 3
 ===
