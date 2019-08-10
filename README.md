@@ -4,6 +4,11 @@ A repository used to help my stats students learn how to use GitHub
 Group 1
 ===
 
+This is chrimah 's change.
+
+## Update next header
+This is my text.
+
 Group 2
 ===
 
