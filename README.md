@@ -17,6 +17,7 @@ This is my text.
 
 Group 2
 ===
+Angus Nicholson, Lawrence Lam, Priscilla Soenario, Jenny Ta, Charles Vanderbilt, John Blackburn-Hart
 
 Group 3
 ===
