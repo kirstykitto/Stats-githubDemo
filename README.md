@@ -18,7 +18,7 @@ This is my text.
 Group 2
 ===
 List of contributors:
-Angus Nicholson, Lawrence Lam, Priscilla Soenario, Jenny Ta, Charles Vanderbilt, John Blackburn-Hart
+Angus Nicholson, Lawrence Lam, Priscilla Soenario, Jenny Ta, Charles Vanderbilt, John Blackburn-Hart!!
 
 Group 3
 ===
