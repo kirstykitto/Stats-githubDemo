@@ -16,8 +16,23 @@ Group 4
 Group 5
 ===
 
-Group 6
+Group 6 - Slow and Steady Analysis
 ===
+
+** List of Contributors **
+* Surbhi
+* Siddhi
+* Vincent
+* Karan
+
+```{r}
+x <- 1
+y <- 1
+
+z = x+y
+z
+```
+
 
 Group 7
 ===
