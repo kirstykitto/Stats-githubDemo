@@ -3,6 +3,12 @@ A repository used to help my stats students learn how to use GitHub
 
 Group 1
 ===
+List of Contributers
+Chris Mahoney
+Chun Wan Mo
+Mengqian Xiong
+Michael Gordon
+William Dai
 
 Group 2
 ===
