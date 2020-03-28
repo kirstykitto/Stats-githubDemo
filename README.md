@@ -2,7 +2,11 @@
 A repository used to help my stats students learn how to use GitHub
 
 Group 1
-test
+Yun Oh
+Hemendra Patil
+Jedo Enriquez
+Ankur Pandey
+Emma Valme
 ===
 
 Group 2
