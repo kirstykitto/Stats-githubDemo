@@ -20,8 +20,9 @@ Group 3
 - Rohin
 - Hayden
 
-Group 4
+Fantastic 4
 ===
+Rohan Pereira, Joseph Tristram, Mo Hussain, and Rato Li
 
 Group 5
 ===
