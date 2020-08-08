@@ -8,6 +8,11 @@ Group 2
 ===
 
 Group 3
+- Martin
+- Luciana
+- Rohin
+- Hayden
+- Sandra
 ===
 
 Group 4
