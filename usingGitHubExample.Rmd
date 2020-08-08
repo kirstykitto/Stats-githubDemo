@@ -82,8 +82,12 @@ Insert some text here
 Group 3
 ===
 
-Insert some text here
-
+Group members:
+- Martin
+- Luciana
+- Rohin
+- Hayden
+- Sandra
 ```{r}
 #Code blocks can go inside these quoted delimeters
 
