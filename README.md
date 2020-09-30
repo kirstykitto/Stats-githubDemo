@@ -7,13 +7,13 @@ Ivan!
 Group 2
 ===
 
-Group 3
+# Group 3
 - Martin
 - Luciana
 - Rohin
 - Hayden
 - Sandra
-===
+
 - Martin
 - Luciana
 - Sandra
